@@ -1,0 +1,383 @@
+ABG Brachfläche des Erwerbsgartenbaus -
+ABK Kleinräumiger Nutzungswechsel mit überwiegendem Brachflächenanteil -
+ABM Ackerbrache mit Magerkeitszeigern -
+ABO Ackerbrache ohne Magerkeitszeigern -
+ACE Extensivacker -
+ACL Lehm- bzw. Tonacker -
+ACS Sandacker -
+ACW Wildacker -
+AGB Baumschule -
+AGG Gemüse- bzw. Blumen-Gartenbaufläche -
+AGO Obstbaum- bzw. Beerstrauch-Plantage -
+AGR Rebkultur -
+AGS Streuobstwiese -
+AKK Fläche mit kleinräumigen Nutzungswechsel -
+BAA Allee § 19
+BAG Geschlossene Allee § 19
+BAJ Neuanpflanzung einer Allee -
+BAL Lückige Allee § 19
+BAN Nicht verkehrswegebegleitende Allee (§ 18)
+BAS Aufgelöste Allee § 19
+BBA Älterer Einzelbaum (§ 18)
+BBG Baumgruppe (§ 18)
+BBJ Jüngerer Einzelbaum -
+BFX Feldgehölz aus überwiegend heimischen Baumarten § 20
+BFY Feldgehölz aus überwiegend nichtheimischen Baumarten -
+BHA Aufgelöste Baumhecke -
+BHB Baumhecke § 20
+BHF Strauchhecke § 20
+BHJ Jüngere Feldhecke § 20
+BHS Strauchhecke mit Überschirmung § 20
+BLM Mesophiles Laubgebüsch § 20
+BLR Ruderalgebüsch § 20
+BLS Laubgebüsch bodensaurer Standorte § 20
+BLT Gebüsch trockenwarmer Standorte § 20
+BLY Gebüsch aus überwiegend nichtheimischen Sträuchern -
+BRG Geschlossene Baumreihe §27
+BRJ Neuanpflanzung einer Baumreihe -
+BRL Lückige Baumreihe §27
+BRN Nicht verkehrswegebegleitende Baumreihe (§ 18)
+BRR Baumreihe §27
+BRS Aufgelöste Baumreihe §27
+BWW Windschutzpflanzung -
+FBA Bach-Altarm § 20
+FBB Beeinträchtigter Bach -
+FBG Geschädigter Bach -
+FBN Naturnaher Bach § 20
+FBR Verrohrter Bach -
+FBU Übermäßig geschädigter Bach -
+FFA Fluss-Altarm § 20
+FFB Beeinträchtigter Fluss -
+FFG Geschädigter Fluss -
+FFN Naturnaher Fluss § 20
+FFU Übermäßig geschädigter Fluss -
+FGB Graben mit intensiver Instandhaltung -
+FGN Graben mit extensiver bzw. ohne Instandhaltung -
+FGR Verrohrter Graben -
+FGU Graben, überwiegend verbaut -
+FGX Graben, trockengefallen oder zeitweilig wasserführend, extensive oder keine Instandhaltung
+FGY Graben, trockengefallen oder zeitweilig wasserführend, intensive Instandhaltung
+FKK Kanal -
+FQS Sicker- und Sumpfquelle § 20/ (§ G)
+FQT Grundquelle, Tümpelquelle § 20/ (§ G)
+FQU Ausgebaute Quelle -
+FQZ Sturzquelle § 20/ (§ G)
+FSA Strom-Altarm § 20
+FSG Geschädigter Strom -
+FSN Naturnaher Strom § 20
+FVS Schwimmblattvegetation von Fließgewässern (§ 20)
+FVU Unterwasservegetation von Fließgewässern (§ 20)
+GFB Brenndolden-Auenwiese § 20
+GFD Sonstiges Feuchtgrünland -
+GFF Flutrasen (§ 20)/ (§ 30)
+GFM Nasswiese mesotropher Moor- und Sumpfstandorte § 20
+GFP Pfeifengraswiese auf Moor- und Sumpfstandorten § 20
+GFR Nasswiese eutropher Moor- und Sumpfstandorte § 20
+GFS Sonstiges Auengrünland § 20
+GHG Salzgrünland des Binnenlandes § 20
+GHS Sonstige Salzvegetation des Binnenlandes § 20
+GIM Intensivgrünland auf Mineralstandorten -
+GIO Intensivgrünland auf Moorstandorten -
+GMA Artenarmes Frischgrünland -
+GMB Aufgelassenes Frischgrünland -
+GMF Frischwiese -
+GMW Frischweide -
+KDC Entkalkte Düne (Braundüne) mit Heidekraut § 20
+KDE Entkalkte Düne (Braundüne) mit Krähenbeere § 20
+KDG Dünenrasen (Graudüne) § 20
+KDK Kriechweidengebüsch auf Küstendünen § 20
+KDR Kliffranddüne § 20/ § G
+KDS Sanddorngebüsch auf Küstendünen § 20
+KDV Vordüne § 20
+KDW Weißdüne § 20
+KDZ Küstenschutzpflanzung auf Dünen -
+KGA Aufgelassenes Salzgrünland § 20
+KGD Gestörtes Salzgrünland § 20
+KGM Mesohalines Salzgrünland § 20
+KGO Oligohalines Salzgrünland § 20
+KGQ Halophile Pionierflur mit Gewöhnlichem Queller § 20
+KGS Halophile Pionierflur, quellerarm § 20
+KKA Moränenkliff, aktiv § 20
+KKI Moränenkliff, inaktiv § 20
+KKK Kreidekliff § 20
+KKS Sandkliff § 20
+KSA Haken der Ostsee § G
+KSB Naturnaher Sandstrand der Boddengewässer § 20
+KSC Kiesstrand, vegetationslos (§ 20)
+KSD Intensiv genutzter Sandstrand der Boddengewässer -
+KSE Geröll- und Blockstrand, vegetationslos § 20
+KSH Haken der Boddengewässer § 20/ § G
+KSI Intensiv genutzter Sandstrand der Ostsee -
+KSJ Geröll- und Blockstrand mit einjähriger Vegetation § 20
+KSM Geröll- und Blockstrand mit ausdauernder Vegetation § 20
+KSN Kiesstrand mit einjähriger Vegetation (§ 20)/ § 30
+KSO Naturnaher Sandstrand der Ostsee (§ 20)
+KSR Kiesstrand mit ausdauernder Vegetation (§ 20)/ § 30
+KSS Strandsee, Strandtümpel, salzhaltiges Kleingewässer § 20/ (§ G)
+KSW Strandwall § 20/ (§ G)
+KTD Gestörtes Dünental /Dünenmoor -
+KTN Naturnahes Dünental / Dünenmoor § 20
+KVH Brackwasserbeeinflusste Hochstaudenflur § 20
+KVR Brackwasserbeeinflusstes Röhricht § 20
+MAG Torfmoos-Gehölz § 20
+MAT Torfmoos-Rasen § 20
+MDB Birken-Kiefernmoorwald § 20
+MDH Moorheide-Stadium § 20
+MPB Pfeifengras-Hochstauden-Stadium der Basen-Zwischenmoore § 20
+MPK Pfeifengras-Hochstauden-Stadium der Kalk-Zwischenmoore § 20
+MSP Pfeifengras-Hochstauden-Stadium der Sauer-Zwischenmoore § 20
+MSS Torfmoos-Schwingrasen § 20
+MST Torfmoos-Seggenried § 20
+MSW Gehölz-/Gebüsch-Stadium der Sauer-Zwischenmoore § 20
+MTO Abtorfungsbereich ohne Regeneration -
+MTR Abtorfungsbereich mit Regeneration § 20
+MZB Basen-Zwischenmoor § 20
+MZC Gehölz-/ Gebüsch-Stadium der Kalk-Zwischenmoore § 20
+MZK Kalk-Zwischenmoor § 20
+MZM Birkenmoorwald der Basen- und Kalk-Zwischenmoore § 20
+MZS Gehölz-/ Gebüsch-Stadium der Basen-Zwischenmoore § 20
+OBD Brachfläche der Dorfgebiete -
+OBS Brachflächen der städtischen Siedlungsgebiete -
+OBV Brache der Verkehrs- und Industrieflächen -
+OCB Blockbebauung -
+OCR Blockrandbebauung -
+OCZ Zeilenbebauung -
+ODA Dorfanger/ Dorfplatz -
+ODE Einzelgehöft -
+ODF Ländlich geprägtes Dorfgebiet -
+ODS Sonstige landwirtschaftliche Betriebsanlage -
+ODT Tierproduktionsanlage -
+ODV Verstädtertes Dorfgebiet -
+OEL Lockeres Einzelhausgebiet -
+OER Verdichtetes Einzel- und Reihenhausgebiet -
+OEV Altes Villengebiet -
+OGF Öffentlich oder gewerblich genutzte Großformbauten -
+OGP Neubaugebiet in Plattenbauweise -
+OIA Industrielle Anlage -
+OIB Großbaustelle -
+OIG Gewerbegebiet -
+OIM Militärobjekt -
+OIT Tankstelle außerhalb geschlossener Gewerbegebiete -
+OKA Altstadt -
+OKI Moderne Innenstadt -
+OSD Müll- und Bauschuttdeponie -
+OSK Kläranlage -
+OSM Kleiner Müll- und Schuttplatz -
+OSS Sonstige Ver- und Entsorgungsanlage -
+OSX Sonstige Deponie -
+OVA Autobahn -
+OVB Bundesstraße -
+OVD Pfad, Rad- und Fußweg -
+OVE Bahn/ Gleisanlage -
+OVF Versiegelter Rad- und Fußweg -
+OVG Güterbahnhof -
+OVH Hafen- und Schleusenanlage -
+OVL Straße -
+OVN Bahnhof/ Bahn-Nebengebäude -
+OVP Parkplatz, versiegelte Freifläche -
+OVR Rast- und Informationsplatz -
+OVU Wirtschaftsweg, nicht- oder teilversiegelt -
+OVW Wirtschaftsweg, versiegelt -
+OVX Flugplatz -
+OWA Steinwall -
+OWB Buhne/ Längsbauwerk -
+OWD Deich/ Damm -
+OWM Mole/ Wellenbrecher -
+OWP Pumpwerk -
+OWS Spülfeld -
+OWW Wehr -
+OXB Burg/ Festung/ Sonstige Wehranlagen -
+OXK Kirche/ Kloster -
+OXR Historische Ruine -
+OXS Historisches Repräsentationsgebäude -
+PEB Beet/ Rabatte -
+PEG Artenreicher Zierrasen -
+PER Artenarmer Zierrasen -
+PEU Nicht- oder teilversiegelte Freifläche, teilweise mit Spontanvegetation -
+PFA Strukturarmer Friedhof mit altem Baumbestand (§ 18)
+PFJ Gehölzarmer Friedhof -
+PFR Strukturreicher Friedhof mit altem Baumbestand (§ 18)
+PGB Hausgarten mit Obstbäumen (§ 18)
+PGN Nutzgarten -
+PGT Traditioneller Bauerngarten (§ 18)
+PGZ Ziergarten -
+PHW Siedlungshecke aus nichtheimischen Gehölzen -
+PHX Siedlungsgebüsch aus heimischen Gehölzarten -
+PHY Siedlungsgebüsch aus nichtheimischen Gehölzarten -
+PHZ Siedlungshecke aus heimischen Gehölzen -
+PKA Strukturarme Kleingartenanlage -
+PKR Strukturreiche, ältere Kleingartenanlage -
+PKU Aufgelassene Kleingartenanlage -
+PPA Strukturarme, ältere Parkanlage (§ 18)
+PPB Botanischer Garten (§ 18)
+PPG Arboretum (§ 18)
+PPJ Jüngere Parkanlage -
+PPR Strukturreiche, ältere Parkanlage (§ 18)
+PSA Sonstige Grünanlage mit Altbäumen -
+PSJ Sonstige Grünanlage ohne Altbäume -
+PTT Tiergarten / Wildgehege -
+PTZ Zoo -
+PWX Siedlungsgehölz aus heimischen Baumarten (§ 18)
+PWY Siedlungsgehölz aus nichtheimischen Baumarten (§ 18)
+PZA Freibad, ausgebaute Badestelle -
+PZB Bootshäuser und -schuppen mit Steganlage -
+PZC Campingplatz -
+PZF Ferienhausgebiet -
+PZG Golfplatz -
+PZO Sportplatz -
+PZP Freizeitpark -
+PZS Sonstige Sport- und Freizeitanlage -
+RHF Staudensaum feuchter bis frischer Mineralstandorte -
+RHK Ruderaler Kriechrasen -
+RHM Mesophiler Staudensaum frischer bis trockener Mineralstandorte -
+RHN Neophyten-Staudenflur -
+RHP Ruderale Pionierflur -
+RHU Ruderale Staudenflur frischer bis trockener Mineralstandorte -
+RTT Ruderale Trittflur -
+SBM Wechseltausendblatt- und Strandlings-Tauchflur § 20
+SBT Zwergteichrosen- und Wasserrosen-Schwimmblattflur § 20
+SBV Vegetationsfreier Bereich nährstoffarmer, subneutraler Stillgewässer (§ 20)/ § 30
+SCG Großarmleuchteralgen-Grundrasen § 20
+SCK Kleinarmleuchteralgen-Grundrasen § 20
+SCN Glanzleuchteralgen- und Schlauchalgen-Grundrasen § 20
+SCP Armleuchteralgen-Laichkraut-Tauchflur § 20
+SCT Armleuchteralgen-Wasserrosen-Schwimmblattflur § 20
+SCV Vegetationsfreier Bereich nährstoffarmer, kalkreicher Gewässer (§ 20)/ § 30
+SEL Wasserlinsen-, Froschbiss- und Krebsscheren-Schwimmdecke § 20
+SEP Laichkraut-Tauchflur § 20
+SET Laichkraut- und Wasserrosen-Schwimmblattflur § 20
+SEV Vegetationsfreier Bereich nährstoffreicher Stillgewässer (§ 20)/ § 30
+SEW Wassermoos- und Wasserschlauch-Schwebematte § 20
+SPV Vegetationsfreier Bereich nährstoffüberlasteter Stillgewässer (§ 20)/ § 30
+SSB Braunmoos- und Torfmoos-Grundrasen § 20
+SSI Wasserlobelien- und Strandlings-Grundrasen § 20
+SST Torfmoos-Wasserrosen-Schwimmblattflur § 20
+SSV Vegetationsfreier Bereich nährstoffarmer, saurer Stillgewässer (§ 20)/ § 30
+SYA Naturfernes Abgrabungsgewässer -
+SYF Naturferner Fischteich -
+SYK Klärteich -
+SYL Feuerlöschteich -
+SYS Sonstiges naturfernes Gewässer -
+SYW Wasserspeicher -
+SYZ Zierteich -
+TBB Borstgrasrasen § 20
+TFB Sumpfbärlapp-Feuchtheide § 20
+TFP Pfeifengras-Hochstaudenstadium der Feuchtheide § 20
+TKD Ruderalisierter Halbtrockenrasen § 20
+TKH Basiphiler Halbtrockenrasen § 20
+TMD Ruderalisierter Sandmagerrasen § 20
+TMS Sandmagerrasen § 20
+TPB Pionier-Sandflur basen- und kalkreicher Standorte § 20
+TPS Pionier-Sandflur saurer Standorte § 20
+TTD Ruderalisierter Steppen- und Trockenrasen § 20
+TTK Steppen- und Trockenrasen § 20
+TWW Wacholderheide § 20
+TZF Feuchte Zwergstrauchheide § 20
+TZG Trockene Zwergstrauchheide mit hohem Gehölzanteil -
+TZT Trockene Zwergstrauchheide § 20
+VGB Bultiges Großseggenried § 20
+VGK Schwingkantenried § 20
+VGR Rasiges Großseggenried § 20
+VGS Sumpfreitgrasried § 20
+VHD Hochstaudenflur stark entwässerter Moor- und Sumpfstandorte -
+VHF Hochstaudenflur feuchter Moor- und Sumpfstandorte § 20
+VHS Uferstaudenflur an Fließ- und Stillgewässern (§ 20)
+VQR Quellried/ -röhricht § 20
+VQS Schaumkraut-Quellflur § 20
+VQT Tuffmoos-Quellflur § 20/ § G
+VRB Fließgewässerröhricht § 20
+VRC Schneidenröhricht § 20
+VRF Teichsimsenröhricht § 20
+VRG Sonstiges Großröhricht § 20
+VRK Kleinröhricht an stehenden Gewässern § 20
+VRL Schilf-Landröhricht § 20
+VRP Schilfröhricht § 20
+VRR Rohrglanzgrasröhricht § 20
+VRT Rohrkolbenröhricht § 20
+VRW Wasserschwadenröhricht § 20
+VRX Schnabelseggen-Kleinröhricht § 20
+VRZ Kalksumpfsimsen-Kleinröhricht § 20
+VSB Zwergbinsenrasen und Teichbodenflur (§ 20)
+VSD Gestörter Uferbereich -
+VSF Flussuferflur (§ 20)
+VSL Strandlingsflur (§ 20)
+VST Teichuferflur (§ 20)
+VSX Standorttypischer Gehölzsaum an stehenden Gewässern § 20
+VSY Standortuntypische Gehölzpflanzung an Gewässern -
+VSZ Standorttypischer Gehölzsaum an Fliessgewässern § 20
+VWD Feuchtgebüsch stark entwässerter Standorte (§ 20)
+VWN Feuchtgebüsch eutropher Moor- und Sumpfstandorte § 20
+WAH Hartholzauenwald im Überflutungsbereich § 20
+WAQ Eichen-Mischwald im nicht mehr überfluteten Bereich der Flussaue § 20
+WAS Weichholzauenwald im nicht mehr überfluteten Bereich der Flussaue § 20
+WAW Weichholzauenwald im Überflutungsbereich § 20
+WBD Frischer bis trockener Buchenwald armer bis ziemlich armer Standorte -
+WBE Feuchter Buchenwald kräftiger und reicher Standorte -
+WBG Frischer bis trockener Buchenwald reicher Standorte -
+WBL Frischer bis trockener Buchenwald mäßig nährstoffversorgter Standorte -
+WBO Buchenwald trockener bis mäßig frischer Kalkstandorte § 20
+WBP Feuchter Buchenwald armer bis ziemlich armer Standorte -
+WBR Feuchter Buchenwald mäßig nährstoffversorgter Standorte -
+WBV Frischer bis trockener Buchenwald verhagerter Standorte -
+WBW Frischer bis trockener Buchenwald kräftiger Standorte -
+WBX Sonstiger Buchenmischwald -
+WEA Frischer bis trockener Eichenwald armer bis ziemlich armer Standorte -
+WEE Feuchter Hainbuchen-Stieleichenwald kräftiger bis reicher Standorte -
+WEH Nasser Hainbuchen-Stieleichenwald kräftiger bis reicher Standorte -
+WEL Hainbuchen-Winterlinden-Traubeneichenwald -
+WEM Nasser Moorbirken-Stieleichenwald armer bis ziemlich armer Standorte -
+WES Linden- Traubeneichen-Trockenwald § 30
+WEV Feuchter Vogelbeer-Stieleichenwald armer bis ziemlich armer Standorte -
+WEX Sonstiger Eichen- und Eichenmischwald -
+WFA Birken- (und Erlen-) Bruch feuchter, mesotropher Standorte § 20
+WFD Erlen- und Birkenwald stark entwässerter Standorte -
+WFE Eschen-Mischwald frisch-feuchter Standorte -
+WFR Erlen- (und Birken-) Bruch feuchter, eutropher Standorte § 20
+WFÜ Erlen-Eschenwald auf überflutungsfeuchten, eutrophen Standorten § 20
+WFX Sonstiger Uferwald feuchter Standorte § 20
+WHE Nasser Stieleichen-Hainbuchenwald kräftiger bis reicher Standorte -
+WHF Feuchter Stieleichen-Hainbuchenwald kräftiger bis reicher Standorte -
+WHT Traubeneichen-Winterlinden-Hainbuchenwald § 30
+WHX Sonstiger Hainbuchen- und Hainbuchenmischwald -
+WKA Bodensaurer Kiefernwald (§ 20)
+WKF Flechten-Kiefernwald (§ 20)
+WKS Steppen-Kiefernwald mäßig nährstoffversorgter bis kräftiger Standorte § 20
+WKX Kiefernmischwald trockener bis frischer Standorte -
+WKZ Sonstiger Kiefernwald trockener bis frischer Standorte (§ 20)
+WLB Windwurffläche -
+WLF Schlagflur / Waldlichtungsflur feuchter Standorte -
+WLK Vegetationsarmer Kahlschlag -
+WLT Schlagflur / Waldlichtungsflur trockener bis frischer Standorte -
+WNA Birken- (und Erlen-) Bruch nasser, mesotropher Standorte § 20
+WNE Erlen-Eschenwald § 20
+WNQ Erlen- und Eschen-Quellwald § 20
+WNR Erlen- (und Birken-) Bruch nasser, eutropher Standorte § 20
+WNÜ Erlen-Eschenwald auf überflutungsnassen, eutrophen Standorten § 20
+WNW Baumweiden-Sumpfwald § 20
+WNX Sonstiger Ufer- und Quellwald nasser Standorte § 20
+WRR Naturnaher Waldrand -
+WSA Ahorn-Steilhangmischwald § 30
+WSX Sonstiger Edellaubholz-Steilhangmischwald -
+WVB Vorwald aus heimischen Baumarten frischer Standorte -
+WVT Vorwald aus heimischen Standorten trockener Standorte -
+WXA Schwarzerlenbestand -
+WXE Eschenbestand -
+WXS Sonstiger Laubholzbestand heimischer Arten -
+WYG Grauerlenbestand -
+WYP Hybridpappelbestand -
+WYS Sonstiger Laubholzbestand nichtheimischer Arten -
+WZD Douglasienbestand -
+WZF Fichtenbestand -
+WZI Sitkafichtenbestand -
+WZL Lärchenbestand -
+WZX Nadelholzbestand sonstiger nichtheimischer Arten -
+XAC Aufgelassener Kreidebruch § 20
+XAK Sand- bzw. Kiesgrube -
+XAL Lehm- bzw. Mergelgrube -
+XAS Sonstiger Offenbodenbereich -
+XAT Tongrube -
+XAU Kreidebruch -
+XGB Block- und Steingründe § G
+XGF Findling § G
+XGG Großsteingrab (§ 20)
+XGK Kreide- und Tonscholle
